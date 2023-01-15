@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Alan Matheus 🗿🍷
-![Alan Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=alancardos0&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display:inline_block">
